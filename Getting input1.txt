@@ -1,0 +1,4 @@
+
+name = input("Enter your ID: ")
+name_1 = input("Enter your name: ")
+print("Hey " + name + " Your user name is " + name_1)

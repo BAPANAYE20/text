@@ -1,0 +1,61 @@
+Cortana Shortcuts
+Windows + Q: Opens Cortana's Home View, enables search by speech or keyboard input.
+
+Windows + C: Opens Cortana's speech prompt
+
+New in Windows 10
+Windows Key + A: Opens Windows 10 notifications
+
+Windows Key + I: Opens Windows 10 settings
+
+Windows Key + Ctrl + D: Creates new virtual desktop
+
+Windows Key + Ctrl + F4: Closes current virtual desktop
+
+Windows Key + Ctrl + Left or Right: Switches between virtual desktops
+
+Windows Key + F1: Opens Edge and Searches "How do I get help in Windows 10" with Bing (formerly opens Help)
+
+Windows Key + Print Screen Key: Creates a screenshot of the whole screen in the Photos app. More screenshot key commands can be found here.
+
+Windows Standards
+Windows Key: Shows the Windows 10 Start Menu 
+
+Windows Key + L: Locks your Windows 10 device
+
+Windows Key + Tab: Launches Windows 10 Task View
+
+Windows Key + Enter: Opens Narrator, a program that reads text for you and shows you tips.
+
+Desktop Commands
+Windows Key + X: Opens Start button context menu
+
+Windows Key + Left, Right, Up or Down: Moves the active window around on your screen. Left and Right snap the window to either side so it takes up half of the screen, Up and Down shrink the window to a quarter-size and move it to that corner. Once you have used Windows Key + Up to place it in the top corner, pressing that command again makes the window take up your whole screen. If you have hit Windows Key + Down to place a window in the bottom corner, hitting that command again minimizes the window.
+
+Windows Key + D: Show Windows desktop (also available with Windows Key + M)
+
+Windows Key + ,: Temporarily show desktop
+
+Connecting and Sharing
+Windows Key + H: Share content (if supported by current app)
+
+Windows Key + K: Connect to wireless displays and audio devices 
+
+Windows Key + E: Open Windows Explorer
+
+Traditional Keyboard Shortcuts
+Windows Key + Space: Switch keyboard input language (if you have added at least a second one)
+
+Windows Key + Shift + Left or Right: Move current Window from one monitor to another (when using a multiple monitor setup)
+
+Windows Key + 1, 2, 3 and so on: Open programs that are pinned to task bar
+
+Windows Key + R: Run a command
+
+Windows Key + P: Project a screen
+
+Alt + Tab: Switch to previous window
+
+Windows Key + T = Cycle through screenshots of open apps
+
+Alt + F4: Close current window, but if you perform this combination when viewing the desktop, you open Power dialogue to shut down or restart Windows, put your device in sleep mode, sign out or switch the current user.
